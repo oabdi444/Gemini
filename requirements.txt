@@ -1,3 +1,5 @@
 google-generativeai
 streamlit
 python-dotenv
+
+use gemini-1.5-flash instead of gemini-pro-vision

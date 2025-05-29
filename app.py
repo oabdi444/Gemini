@@ -66,3 +66,5 @@ if submit:
         st.write(response)
     else:
         st.warning("Please provide both a prompt and an image.")
+
+        
